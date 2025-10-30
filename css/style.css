@@ -24,7 +24,7 @@ html {
 
 body {
     font-family: var(--font-body);
-    background-color: var(--color-white);
+    background-color: #FDF0F5;
     color: var(--color-black);
     line-height: 1.7;
     /* (Espacio para la textura de fondo si la añades) */
@@ -172,7 +172,7 @@ p {
 
 /* ======== 3. SECCIÓN COLECCIÓN DESTACADA (IMÁGENES) ======== */
 .featured-collection {
-    background-color: #f9f9f9;
+    background-color: #F9EBEF;
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;
 }
